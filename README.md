@@ -1,2 +1,2 @@
 # kaiaru_data_science
-KAIARU EDTECH: Revision, RND of Data Science 
+KAIARU EDTECH: Portfolio, Revision, RND of Data Science 
