@@ -1,2 +1,3 @@
 # kaiaru_data_science
-KAIARU EDTECH: Portfolio, Revision, RND of Data Science 
+## KAIARU AI & AUTOMATION
+## Data Science for EdTech
