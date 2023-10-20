@@ -1,3 +1,2 @@
-# kaiaru_data_science
-## KAIARU AI & AUTOMATION
+# EDTECH RSA
 ## Data Science for EdTech
